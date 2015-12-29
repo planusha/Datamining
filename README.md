@@ -1,0 +1,3 @@
+# Datamining
+
+Datamining courses assignments
